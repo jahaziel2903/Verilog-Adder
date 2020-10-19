@@ -46,7 +46,7 @@ module FullAdd4( input [3:0]A,
     begin
         {Cout,Sum} = A+B+Cin;
     end     	
-// student code here
+
 
 
 endmodule // Majority  
